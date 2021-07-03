@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IkeSam20XX
-- 👀 I’m interested in costuming technology, learning what impact i can have on the world thorugh programming.
-- 🌱 I’m currently learning python and struggling through javascript.
-- 💞️ I’m looking to collaborate on anything where I can be more of a help than "here to learn".
+
 - 📫 How to reach me ...
 
 <!---
